@@ -8,21 +8,13 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="David Gonzalez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MauricioD13&count_private=true&theme=dark&show_icons=true&bg_color=0d1117&icon_color=3572A5&title_color=F8CB2E&hide_border=true" class="responsive" />
+        <img width="450" height="224" img align="left" alt="David Gonzalez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MauricioD13&theme=dark&hide_border=true" class="responsive" />
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&show_icons=true&bg_color=0d1117&icon_color=063458&title_color=F8CB2E&layout=compact&hide_border=true" class="responsive"/>
+        <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&hide_border=true" class="responsive"/>
     </div>
 </div>
-
-<p align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioD13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
