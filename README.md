@@ -12,10 +12,15 @@
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&hide_border=true" class="responsive"/>
+        <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&hide_border=true&layout=compact" class="responsive"/>
     </div>
 </div>
 
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
