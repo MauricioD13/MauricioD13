@@ -16,6 +16,15 @@
     </div>
 </div>
 
+### Aprendiendo de:
+
+    - Cloud computing
+    - Cybersecurity
+    - IoT
+
+### Actualmente leyendo:
+    - "Las 48 leyes del poder" Robert Greene
+    - "El inversor inteligente" Benjamin Graham
 
 
 <img width="450" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
