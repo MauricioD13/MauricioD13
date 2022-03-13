@@ -15,7 +15,7 @@
         <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&hide_border=true&layout=compact" class="responsive"/>
     </div>
 </div>
-
+<p></p>
 ### Aprendiendo de:
 
     - Cloud computing
