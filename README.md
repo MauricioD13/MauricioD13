@@ -18,7 +18,7 @@
 
 <p align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img width="350" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </p>
 
