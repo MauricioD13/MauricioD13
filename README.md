@@ -5,6 +5,17 @@
   <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 </p>
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="224" img align="left" alt="David Gonzalez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MauricioD13&count_private=true&theme=dark&show_icons=true&bg_color=0d1117&icon_color=3572A5&title_color=F8CB2E&hide_border=true" class="responsive" />
+    </div>
+    <br/>
+    <div style="display: inline-block;">
+        <img width="350" img align="center" alt="David Gonzalez's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&show_icons=true&bg_color=0d1117&icon_color=063458&title_color=F8CB2E&layout=compact&hide_border=true" class="responsive"/>
+    </div>
+</div>
+
 <p align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioD13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
