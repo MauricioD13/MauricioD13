@@ -16,14 +16,9 @@
     </div>
 </div>
 
-<p align="center">
-
-<img width="350" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</p>
 
 
-
+<img width="450" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 
 <p align="center">
