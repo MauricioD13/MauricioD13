@@ -3,7 +3,10 @@
 <p align="center">
 
   <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
-
+  <h1>Practicante Deloitte en el area de Cyber Risk Advisory</h1>
+  Estudiante de ingeniería electrónica de la Pontificia Universidad Javeriana. Interesado en temas como la
+  ciencia de datos y la ciberseguridad, actualmente me dedico a aprender más sobre ciberseguridad. Tengo experiencia en
+  programacion con los lenguajes Python y C, en mi perfil hay varios proyectos relacionados con estas tecnologías [perfil](https://github.com/MauricioD13) así como conocimiento en bases de datos relacionales con SQL y nivel intermedio en el uso de Linux.
 </p>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
