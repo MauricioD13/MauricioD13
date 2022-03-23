@@ -6,7 +6,7 @@
   <h1>Practicante Deloitte en el area de Cyber Risk Advisory</h1>
   Estudiante de ingeniería electrónica de la Pontificia Universidad Javeriana. Interesado en temas como la
   ciencia de datos y la ciberseguridad, actualmente me dedico a aprender más sobre ciberseguridad. Tengo experiencia en
-  programacion con los lenguajes Python y C, en mi perfil hay varios proyectos relacionados con estas tecnologías [perfil](https://github.com/MauricioD13) así como conocimiento en bases de datos relacionales con SQL y nivel intermedio en el uso de Linux.
+  programacion con los lenguajes Python y C, en mi perfil hay varios proyectos relacionados con estas tecnologías <a href='https://github.com/MauricioD13'>perfil</a> así como conocimiento en bases de datos relacionales con SQL y nivel intermedio en el uso de Linux.
 </p>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
