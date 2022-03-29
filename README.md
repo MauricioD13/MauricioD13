@@ -28,9 +28,9 @@
     - IoT
 
 ### Actualmente leyendo:
-    -[x] Las 48 leyes del poder - Robert Greene
-    -[] Habitos Atomicos - James Clear
-    -[] El inversor inteligente - Benjamin Graham
+    - [x] Las 48 leyes del poder - Robert Greene
+    - [ ] Habitos Atomicos - James Clear
+    - [ ] El inversor inteligente - Benjamin Graham
 
 
 <img width="450" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
