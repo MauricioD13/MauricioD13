@@ -26,12 +26,16 @@
     - Cloud computing
     - Cybersecurity
     - IoT
+    - PCI DSS
+    - Hacking
 
 ### Actualmente leyendo:
 - [x] Las 48 leyes del poder - Robert Greene
 - [X] Habitos Atomicos - James Clear
-- [ ] The Art of Intrusion - Kevin Mitnick
-- [ ] El inversor inteligente - Benjamin Graham
+- [x] The Art of Intrusion - Kevin Mitnick
+- [x] El inversor inteligente - Benjamin Graham
+- [x] Fundación - Asimov
+- [ ] La psicología del dinero - Morgan Housel
 
 
 <img width="450" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
