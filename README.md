@@ -3,10 +3,8 @@
 <p align="center">
 
   <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
-  <h1>Consultor nivel 1 Deloitte en el area: Cyber Risk Advisory</h1>
-  Estudiante de ingeniería electrónica de la Pontificia Universidad Javeriana. Interesado en temas como la
-  ciencia de datos y la ciberseguridad, actualmente me dedico a aprender más sobre ciberseguridad. Tengo experiencia en
-  programacion con los lenguajes Python y C, en mi perfil hay varios proyectos relacionados con estas tecnologías <a href='https://github.com/MauricioD13'>perfil</a> así como conocimiento en bases de datos relacionales con SQL y nivel intermedio en el uso de Linux.
+  <h1>Perfil</h1>
+  Ingeniero electrónico de la Pontificia Universidad Javeriana y estudiante del Master de ciberseguridad en IMF. Interesado en temas de desarrollo, nube y ciberseguridad, actualmente me dedico estoy aprendiendo sobre temas de AWS y ciberseguridad. Tengo experiencia desarrollando en lenguajes como Python, C, Bash, SQL y Javascript. He realizado varios proyectos relacionados con estas tecnologías <a href='https://github.com/MauricioD13'>perfil</a> y que me han permitido aprender sobre otros temas como bases de datos relacionales y Linux.
 </p>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
@@ -23,19 +21,14 @@
 ### +
 ### Aprendiendo de:
 
-    - Cloud computing
+    - Cloud computing (AWS)
     - Cybersecurity
-    - IoT
-    - PCI DSS
     - Hacking
+    - SIEM
 
 ### Actualmente leyendo:
-- [x] Las 48 leyes del poder - Robert Greene
-- [X] Habitos Atomicos - James Clear
-- [x] The Art of Intrusion - Kevin Mitnick
-- [x] El inversor inteligente - Benjamin Graham
-- [x] Fundación - Asimov
-- [ ] La psicología del dinero - Morgan Housel
+- [x] Never Split the difference - Chris Voss
+- [ ] The obstacle is the way - Ryan Holiday
 
 
 <img width="450" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
