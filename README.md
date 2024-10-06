@@ -4,7 +4,8 @@
 
   <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
   <h1>Perfil</h1>
-  Ingeniero electrónico de la Pontificia Universidad Javeriana y estudiante del Master de ciberseguridad en IMF. Interesado en temas de desarrollo, nube y ciberseguridad, actualmente me dedico estoy aprendiendo sobre temas de AWS y ciberseguridad. Tengo experiencia desarrollando en lenguajes como Python, C, Bash, SQL y Javascript. He realizado varios proyectos relacionados con estas tecnologías <a href='https://github.com/MauricioD13'>perfil</a> y que me han permitido aprender sobre otros temas como bases de datos relacionales y Linux.
+  Ingeniero Electrónico de la Pontificia Universidad Javeriana, actualmente cursando un Máster en Ciberseguridad en IMF. Especializado en desarrollo, computación en la nube y ciberseguridad. Certificado como AWS Cloud Practitioner y AWS Solutions Architect Associate, con experiencia en proyectos freelance de optimización de costos y despliegue de arquitecturas web en AWS.
+Competente en Python, C, Bash y SQL. Apasionado por el kernel Linux, con amplia experiencia en configuración y administración de diversas distribuciones, tanto en entornos de escritorio como en servidores.
 </p>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
@@ -21,14 +22,21 @@
 ### +
 ### Aprendiendo de:
 
-    - Cloud computing (AWS)
+    - AWS
+    - DevOps
     - Cybersecurity
-    - Hacking
-    - SIEM
+    - DevSecOps
+    - Linux
 
-### Actualmente leyendo:
+### Libros este año:
 - [x] Never Split the difference - Chris Voss
-- [ ] The obstacle is the way - Ryan Holiday
+- [x] The obstacle is the way - Ryan Holiday
+- [x] The Phoneix Project - Gene Kim, Kevin Behr, George Spafford
+- [x] Beyond Order: 12 Rules for Life - Jordan B. Peterson
+- [x] The 5 second Rule - Mel Robbins
+- [x] Meditations - Marco Aurelio
+- [x] Dune - Frank Herbert
+- [ ] Ghost in the Wires - Kevin D. Mitnick
 
 
 <img width="450" align="center" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
