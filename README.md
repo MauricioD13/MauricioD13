@@ -10,17 +10,9 @@
 Competente en Python, C, Bash y SQL. Apasionado por el kernel Linux, con amplia experiencia en configuración y administración de diversas distribuciones, tanto en entornos de escritorio como en servidores.
 </p>
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="Mauricio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MauricioD13&theme=dark&hide_border=true" class="responsive" />
-    </div>
-    <br/>
-    <div style="display: inline-block;">
-        <img width="350" img align="center" alt="Mauricio's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioD13&theme=dark&hide_border=true&layout=compact" class="responsive"/>
-    </div>
-</div>
-<p></p>
 
+<p></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioD13)](https://github.com/anuraghazra/github-readme-stats)
 ### +
 ### Aprendiendo de:
 
