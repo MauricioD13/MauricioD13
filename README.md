@@ -12,7 +12,34 @@ Competente en Python, C, Bash y SQL. Apasionado por el kernel Linux, con amplia 
 
 
 <p></p>
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioD13&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,neovim,bash,git,aws,linux,c,terraform" />
+  </a>
+</p>
+
+<p align="center">
+  </br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=MauricioD13&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
+  </br>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauricioD13&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+  
+  </br>
+  </br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MauricioD13&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+  </a>
+    
+</p>
+
 
 
 
