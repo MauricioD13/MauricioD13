@@ -12,7 +12,9 @@ Competente en Python, C, Bash y SQL. Apasionado por el kernel Linux, con amplia 
 
 
 <p></p>
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioD13)
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioD13&show_icons=true&theme=radical)
+
+
 
 ### Aprendiendo de:
 
