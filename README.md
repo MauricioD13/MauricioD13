@@ -4,7 +4,7 @@
 
   <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 <h1> Webpage </h1>
-<a href="https://tech-mauricio.me">tech-mauricio.me</a>
+<a href="[https://tech-mauricio.me](https://mauriciod13.github.io/)">[tech-mauricio.me](https://mauriciod13.github.io/)</a>
   <h1>Perfil</h1>
   Ingeniero Electrónico de la Pontificia Universidad Javeriana, actualmente cursando un Máster en Ciberseguridad en IMF. Especializado en desarrollo, computación en la nube y ciberseguridad. Certificado como AWS Cloud Practitioner y AWS Solutions Architect Associate, con experiencia en proyectos freelance de optimización de costos y despliegue de arquitecturas web en AWS.
 Competente en Python, C, Bash y SQL. Apasionado por el kernel Linux, con amplia experiencia en configuración y administración de diversas distribuciones, tanto en entornos de escritorio como en servidores.
